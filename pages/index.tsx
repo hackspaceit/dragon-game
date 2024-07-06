@@ -41,7 +41,7 @@ const Home: NextPage = () => {
 
   const { data: playerScore } = useReadContract(getScore, {
     contract,
-    player: address || "",
+    player: address || "0x",
   });
 
   const eventsQuery = useContractEvents({

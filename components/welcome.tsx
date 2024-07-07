@@ -28,7 +28,7 @@ const Welcome: React.FC = () => {
           src="/cat-attack.png"
           width={400}
           height={320}
-          alt="Cat Attack"
+          alt="Dragon Base"
         />
       </div>
       <div className="max-w-xs">
@@ -42,7 +42,7 @@ const Welcome: React.FC = () => {
             size: "compact",
           }}
           connectButton={{
-            label: "Start Playing",
+            label: "Play Now",
           }}
         />
       </div>

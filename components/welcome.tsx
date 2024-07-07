@@ -20,12 +20,12 @@ const Welcome: React.FC = () => {
               "linear-gradient(73.59deg, #C339AC 42.64%, #CD4CB5 54%, #E173C7 77.46%)",
           }}
         >
-          Cat Attack
+          Dragon Base Game
         </span>
       </h1>
       <div className="mx-auto">
         <Image
-          src="/dragon.gif"
+          src="/gg.gif"
           width={400}
           height={320}
           alt="Dragon Base"

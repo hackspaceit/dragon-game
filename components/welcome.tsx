@@ -25,7 +25,7 @@ const Welcome: React.FC = () => {
       </h1>
       <div className="mx-auto">
         <Image
-          src="/cat-attack.png"
+          src="/dragon.gif"
           width={400}
           height={320}
           alt="Dragon Base"

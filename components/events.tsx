@@ -23,7 +23,15 @@ export const Event: React.FC<EventProps> = ({ type, data }) => {
           : "border-neutral-700"
       } rounded-lg flex items-center w-full leading-none`}
     >
-      
+   <div className="shrink-0 h-16">
+        <Image
+          className="rounded-l-lg"
+          width={64}
+          height={64}
+          alt=""
+          src={`/dragon.gif`}
+        />
+      </div>   
       <div className="space-y-2 font-semibold overflow-hidden px-4">
         {type === "LevelUp" && (
           <>

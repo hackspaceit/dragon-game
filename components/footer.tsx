@@ -31,7 +31,7 @@ const Footer = () => {
           className="text-blue-500 hover:no-underline"
           rel="noreferrer"
         >
-          joenrv.eth
+         Eldar Faaiz
         </a>
       </h4>
       <p className="font-semibold">No animals were hurt building this game.</p>

@@ -30,7 +30,7 @@ const Header: React.FC = () => {
             className="hidden md:block"
             width={194}
             height={28}
-            src="/icon/header.png"
+            src="/icons/header.png"
             alt="thirdweb"
           />
         </div>
